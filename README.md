@@ -7,8 +7,7 @@ AI Tools Directory is a responsive website that brings different AI tools togeth
 Users can explore AI tools, search for tools by name or description, and filter them based on categories.
 
 ## Features
-
-- Browse 15 different AI tools.
+Browse 20 different AI tools.
 - Search tools by name and description.
 - Filter tools by category.
 - Combine search and category filtering.
@@ -18,7 +17,10 @@ Users can explore AI tools, search for tools by name or description, and filter 
 - Smooth hover effects on tool cards.
 
 ## Categories
-
+- Resume
+- Presentations
+- Excel & Spreadsheets
+- Study & Learning
 - Chatbots
 - Design
 - Writing
